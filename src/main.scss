@@ -1,0 +1,168 @@
+/* {{{ /* ---- Dotfiles variables ---- */
+:root {
+  --dotfiles-colorscheme-bg: #2d2d2d;
+  --dotfiles-colorscheme-fg: #d3d0c8;
+  --dotfiles-colorscheme-selection-bg: #515151;
+  --dotfiles-colorscheme-selection-fg: #d3d0c8;
+  --dotfiles-colorscheme-cursor-bg: #d3d0c8;
+  --dotfiles-colorscheme-cursor-fg: #2d2d2d;
+  --dotfiles-colorscheme-base-00: #2d2d2d;
+  --dotfiles-colorscheme-base-01: #393939;
+  --dotfiles-colorscheme-base-02: #515151;
+  --dotfiles-colorscheme-base-03: #747369;
+  --dotfiles-colorscheme-base-04: #a09f93;
+  --dotfiles-colorscheme-base-05: #d3d0c8;
+  --dotfiles-colorscheme-base-06: #e8e6df;
+  --dotfiles-colorscheme-base-07: #f2f0ec;
+  --dotfiles-colorscheme-base-08: #f2777a;
+  --dotfiles-colorscheme-base-09: #f99157;
+  --dotfiles-colorscheme-base-0A: #ffcc66;
+  --dotfiles-colorscheme-base-0B: #99cc99;
+  --dotfiles-colorscheme-base-0C: #66cccc;
+  --dotfiles-colorscheme-base-0D: #6699cc;
+  --dotfiles-colorscheme-base-0E: #cc99cc;
+  --dotfiles-colorscheme-base-0F: #d27b53;
+}
+/* }}} */
+
+/* {{{ /* ----- Chat view ----- */
+
+/* Server list */
+.scroller-1Bvpku,
+.childWrapper-anI2G9 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Servers with only an acronym */
+.childWrapper-anI2G9 {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Channel, member, and DM list */
+.container-3w7J-x,
+.members-1998pB,
+.members-1998pB > div,
+.searchBar-6Kv8R2,
+.scroller-1JbKMe {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Folders */
+.expandedFolderBackground-1cujaW,
+.folder-1hbNCn,
+.folder-1hbNCn.hover-qTxTR_ {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Toolbar at top of chat (channel name | desc) */
+.container-1r6BKw.themed-ANHk51 {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Desc modal */
+.theme-dark .root-1gCeng {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Chat */
+.chat-3bRxxu {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Text areas */
+.scrollableContainer-2NUZem,
+.channelTextArea-rNsIhG,
+.input-2_SIlA {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Little gradient at end of channel desc */
+.theme-dark .children-19S4PO:after {
+  background: none;
+}
+
+/* Bottom right user panel */
+.panels-j1Uci_ {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* User popout */
+.userPopout-xaxa6l,
+.profileBannerPreview-3_l0Wd {
+  border: 2px solid;
+  border-color: var(--dotfiles-colorscheme-base-02);
+}
+.userPopout-xaxa6l,
+.footer-3UKYOU,
+.bodyInnerWrapper-26fQXj,
+.profileBannerPreview-3_l0Wd {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+.avatarUploaderInner-Oiob_P,
+.avatar-37jOim {
+  border: 6px solid var(--dotfiles-colorscheme-base-02);
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Emoji popout */
+.popoutContainer-1MXdqN {
+  background-color: var(--dotfiles-colorscheme-bg);
+  border: 2px solid;
+  border-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Right-click menu */
+.scroller-3BxosC {
+  background-color: var(--dotfiles-colorscheme-base-01);
+  border-radius: 8px;
+  border: 2px solid;
+  border-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Blue buttons */
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+  background-color: var(--dotfiles-colorscheme-base-0D);
+}
+
+/* Dropdowns */
+.css-gvi9bl-control {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* }}} */
+
+/* {{{ /* ----- Settings ----- */
+
+/* Sidebar */
+.sidebarRegionScroller-3MXcoP {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Main content */
+.contentRegionScroller-26nc1e {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Account card */
+.accountProfileCard-1XCH88 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.background-1QDuV2,
+.fieldList-21DyL8,
+.avatar-1uQSZT {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+.avatar-1uQSZT {
+  border: 7px solid var(--dotfiles-colorscheme-base-02);
+}
+
+/* Radio bars (e.g. Privacy & Safety) */
+.item-26Dhrx {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.item-26Dhrx[aria-checked='true'] {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* }}} */
