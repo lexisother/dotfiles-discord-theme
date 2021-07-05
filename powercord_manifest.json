@@ -1,0 +1,8 @@
+{
+  "name": "dotfiles",
+  "description": "A theme based on dmitmel's dotfiles.",
+  "version": "1.0",
+  "author": "Alyxia",
+  "license": "MIT",
+  "theme": "src/main.scss"
+}
