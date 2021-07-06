@@ -64,6 +64,39 @@
   background-color: var(--dotfiles-colorscheme-bg);
 }
 
+/* Search bar */
+.searchBar-3dMhjb {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Search popout */
+.theme-dark .tab-2j5AEF.selected-2LAck8,
+.theme-dark .option-96V44q.selected-rZcOL-,
+.theme-dark .focused-2bY0OD {
+  background-color: var(--dotfiles-colorscheme-selection-bg);
+}
+.theme-dark .container-3ayLPN {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.theme-dark .option-96V44q:after,
+.theme-dark .option-96V44q.selected-rZcOL-:after {
+  background: none;
+}
+
+/* Search sidebar */
+.tab-2j5AEF,
+.searchResult-9tQ1uo {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.tab-2j5AEF:hover {
+  background-color: var(--dotfiles-colorscheme-selection-bg);
+}
+.searchHeader-2XoQg7,
+.searchResultsWrap-3-pOjs,
+.channelName-1JRO3C {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
 /* Chat & Loading chat */
 .chat-3bRxxu,
 .wrapper-3vR61M,
