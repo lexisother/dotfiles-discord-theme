@@ -55,3 +55,8 @@
 .section-2gLsgF {
   background-color: var(--dotfiles-colorscheme-base-02);
 }
+
+/* Nitro screen */
+.scroller-9moviB {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
