@@ -101,3 +101,39 @@
 .embedFull-2tM8-- {
   background-color: var(--dotfiles-colorscheme-bg);
 }
+
+/* {{{ /* Slash commands */
+/* Selected command category color */
+.selected-3xBBKs,
+.selected-3xBBKs:hover {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Command list background */
+.wrapper-uf3cnO .list-A0BHjR,
+.list-17lzo8 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Command category header */
+.categoryHeader-O1zU94 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Selected / Highlighted command */
+.theme-dark .selected-1Tbx07 {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Selected command above chat text field */
+.attachedBars-tZDmyV {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Powercord commands */
+.scroller-lynW5A {
+  border: 2px solid var(--dotfiles-colorscheme-base-02);
+  border-radius: 4px;
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+/* }}} */
