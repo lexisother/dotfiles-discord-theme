@@ -81,3 +81,17 @@
   background-color: var(--dotfiles-colorscheme-base-02);
 }
 /* }}} */
+
+/* {{{ /* Upload modal */
+.theme-dark .uploadModal-2ifh8j {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+.uploadModal-2ifh8j .inner-3nWsbo {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+.uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+/* }}} */
