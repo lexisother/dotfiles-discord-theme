@@ -111,6 +111,19 @@
   background-color: var(--dotfiles-colorscheme-base-02);
 }
 
+/* Markdown elements */
+.blockquoteDivider-2hH8H6 {
+  background-color: var(--dotfiles-colorscheme-base-03);
+}
+.after_inlineCode-1KfVgj,
+.before_inlineCode-1G9rTK,
+.inlineCode-2ngu6Y {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.markup-2BOw-j code {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
 /* Little gradient at end of channel desc */
 .theme-dark .children-19S4PO:after {
   background: none;
