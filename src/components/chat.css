@@ -102,6 +102,11 @@
   background-color: var(--dotfiles-colorscheme-bg);
 }
 
+/* Uploading attachment */
+.attachment-33OFj0 {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
 /* {{{ /* Slash commands */
 /* Selected command category color */
 .selected-3xBBKs,
