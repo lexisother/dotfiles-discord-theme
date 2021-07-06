@@ -97,6 +97,36 @@
   background-color: var(--dotfiles-colorscheme-bg);
 }
 
+/* Friends list */
+.theme-dark .container-1D34oG {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,
+.topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
+  background-color: var(--dotfiles-colorscheme-selection-bg);
+}
+.brand-1Zl8en.item-PXvHYJ,
+.themed-OHr7kt.item-PXvHYJ {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover:not(.disabled-1Hwwfb),
+.topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover:not(.disabled-1Hwwfb) {
+  background-color: var(--dotfiles-colorscheme-selection-bg);
+}
+
+/* Friends list > Now Playing */
+.container-lRFx4q {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+.wrapper-3D2qGf {
+  border: 2px solid var(--dotfiles-colorscheme-base-02);
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.section-2gLsgF {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
 /* Chat & Loading chat */
 .chat-3bRxxu,
 .wrapper-3vR61M,
