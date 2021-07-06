@@ -100,11 +100,26 @@
 .profileBannerPreview-3_l0Wd {
   background-color: var(--dotfiles-colorscheme-bg);
 }
-
 .avatarUploaderInner-Oiob_P,
 .avatar-37jOim {
   border: 6px solid var(--dotfiles-colorscheme-base-02);
   background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* User modal */
+.root-3QyAh1 {
+  border: 2px solid var(--dotfiles-colorscheme-base-02);
+}
+.body-r6_QPy,
+.topSection-y3p-_D {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+.avatar-AvHqJA {
+  background-color: var(--dotfiles-colorscheme-base-02);
+  border: 8px solid var(--dotfiles-colorscheme-base-02);
+}
+.pc-connections .connectedAccounts-QlRa4m:empty::before {
+  background-color: transparent !important;
 }
 
 /* Emoji popout */
@@ -126,6 +141,15 @@
 }
 .menu-3sdvDG {
   border-radius: 8px;
+}
+
+/* Tooltip */
+.theme-dark .tooltipPrimary-1d1ph4 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+  border: 2px solid var(--dotfiles-colorscheme-base-02);
+}
+.theme-dark .tooltipPrimary-1d1ph4 .tooltipPointer-3ZfirK {
+  border-top-color: var(--dotfiles-colorscheme-base-02);
 }
 
 /* Blue buttons */
