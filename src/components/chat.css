@@ -72,6 +72,11 @@
   background-color: var(--dotfiles-colorscheme-base-01);
 }
 
+/* Date divider */
+.divider-JfaTT5 {
+  border-top: thin solid var(--dotfiles-colorscheme-base-02);
+}
+
 /* Text areas */
 .scrollableContainer-2NUZem,
 .channelTextArea-rNsIhG,
