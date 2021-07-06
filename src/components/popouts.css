@@ -47,3 +47,37 @@
 .guildSection-1EoFKd {
   background-color: var(--dotfiles-colorscheme-bg);
 }
+
+/* {{{ /* Emote picker */
+/* Picker background */
+.contentWrapper-SvZHNd {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Server list */
+.wrapper-2Gsate {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Emote info */
+.inspector-S2gM3e {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Server header */
+.wrapper-1-Fsb8 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Search bar */
+.searchBar-5di9mG {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Skin tone picker */
+.diversitySelectorOptions-4YM-vX {
+  border: 2px solid var(--dotfiles-colorscheme-base-03);
+  border-radius: 4px;
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+/* }}} */
