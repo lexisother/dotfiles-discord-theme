@@ -1,0 +1,96 @@
+/* Sidebar */
+.sidebarRegionScroller-3MXcoP {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Main content */
+.contentRegionScroller-26nc1e {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Account card */
+.accountProfileCard-1XCH88 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.background-1QDuV2,
+.fieldList-21DyL8,
+.avatar-1uQSZT {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+.avatar-1uQSZT {
+  border: 7px solid var(--dotfiles-colorscheme-base-02);
+}
+
+/* Radio bars (e.g. Privacy & Safety) */
+.item-26Dhrx {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.item-26Dhrx[aria-checked='true'] {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Dropdowns */
+.css-3vaxre-menu {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Connections */
+.accountList-33MS45 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+.connectionHeader-2MDqhu {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.connectionOptionsWrapper-3KIj1Z {
+  background-color: var(--dotfiles-colorscheme-base-02);
+  border-radius: 0 0 8px 8px;
+}
+
+/* Authorized apps */
+.cardPrimaryOutline-29Ujqw {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Nitro */
+.detailsBlock-FoDTGA,
+.theme-dark .feature-2w65J5,
+.premiumSubscriptionAccountCredit-25i0tQ {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Server Boost */
+.card-3AyPWq {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+.card-3AyPWq:hover {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+.theme-dark .gemIndicatorContainer-2jdECl {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Appearance */
+.preview-2nSL_2 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Accessibility */
+.preview-2Vkbi6 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.previewMessage-1ZN7YG {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Voice & Video */
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.cardPrimary-1Hv-to,
+.cardPrimaryEditable-3KtE4g {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}

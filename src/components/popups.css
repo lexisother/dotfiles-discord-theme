@@ -1,0 +1,29 @@
+/* Modal (e.g. Nitro) */
+.theme-dark .footer-2gL1pp {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Dropdowns */
+.css-gvi9bl-control {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Tooltip (e.g. timestamp hover) */
+.theme-dark .tooltipPrimary-1d1ph4 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+  border: 2px solid var(--dotfiles-colorscheme-base-02);
+}
+.theme-dark .tooltipPrimary-1d1ph4 .tooltipPointer-3ZfirK {
+  border-top-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Hovering menu (e.g. right click) */
+.scroller-3BxosC {
+  background-color: var(--dotfiles-colorscheme-base-01);
+  border-radius: 8px;
+  border: 2px solid;
+  border-color: var(--dotfiles-colorscheme-base-02);
+}
+.menu-3sdvDG {
+  border-radius: 8px;
+}

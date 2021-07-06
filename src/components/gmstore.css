@@ -1,0 +1,11 @@
+div[id='gm-settings-inject'] {
+  background-color: var(--dotfiles-colorscheme-base-01) !important;
+}
+
+.gm-store-card {
+  border: 3px solid var(--dotfiles-colorscheme-base-02);
+}
+.gm-store-card,
+.gm-store-card > :nth-child(1) {
+  background-color: var(--dotfiles-colorscheme-base-01) !important;
+}

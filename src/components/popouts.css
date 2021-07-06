@@ -1,0 +1,49 @@
+/* User popout */
+.userPopout-xaxa6l,
+.profileBannerPreview-3_l0Wd {
+  border: 2px solid;
+  border-color: var(--dotfiles-colorscheme-base-02);
+}
+.userPopout-xaxa6l,
+.footer-3UKYOU,
+.bodyInnerWrapper-26fQXj,
+.profileBannerPreview-3_l0Wd {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+.avatarUploaderInner-Oiob_P,
+.avatar-37jOim {
+  border: 6px solid var(--dotfiles-colorscheme-base-02);
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+.popoutBanner-19WKGg {
+  border-radius: 8px 8px 0 0;
+}
+.profileBanner-33-uE1 {
+  border-radius: 4px 4px 0 0;
+}
+
+/* User modal */
+.root-3QyAh1 {
+  border: 2px solid var(--dotfiles-colorscheme-base-02);
+}
+.body-r6_QPy,
+.topSection-y3p-_D {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.avatar-AvHqJA {
+  background-color: var(--dotfiles-colorscheme-base-02);
+  border: 8px solid var(--dotfiles-colorscheme-base-02);
+}
+.pc-connections .connectedAccounts-QlRa4m:empty::before {
+  background-color: transparent !important;
+}
+
+/* Emoji popout */
+.popoutContainer-1MXdqN {
+  background-color: var(--dotfiles-colorscheme-bg);
+  border: 2px solid;
+  border-color: var(--dotfiles-colorscheme-base-02);
+}
+.guildSection-1EoFKd {
+  background-color: var(--dotfiles-colorscheme-bg);
+}

@@ -1,0 +1,93 @@
+/* Pin menu */
+.header-ykumBX {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+.messagesPopout-24nkyi {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+.messageGroupWrapper-o-Zw7G {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.jumpButton-3DTcS_ {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Toolbar at top of chat (channel name | desc) */
+.container-1r6BKw.themed-ANHk51 {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Desc modal */
+.theme-dark .root-1gCeng {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Little gradient at end of channel desc */
+.theme-dark .children-19S4PO:after {
+  background: none;
+}
+
+/* Bottom right user panel */
+.panels-j1Uci_ {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Search bar */
+.searchBar-3dMhjb {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Search popout */
+.theme-dark .tab-2j5AEF.selected-2LAck8,
+.theme-dark .option-96V44q.selected-rZcOL-,
+.theme-dark .focused-2bY0OD {
+  background-color: var(--dotfiles-colorscheme-selection-bg);
+}
+.theme-dark .container-3ayLPN {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.theme-dark .option-96V44q:after,
+.theme-dark .option-96V44q.selected-rZcOL-:after {
+  background: none;
+}
+
+/* Search sidebar */
+.tab-2j5AEF,
+.searchResult-9tQ1uo {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.tab-2j5AEF:hover {
+  background-color: var(--dotfiles-colorscheme-selection-bg);
+}
+.searchHeader-2XoQg7,
+.searchResultsWrap-3-pOjs,
+.channelName-1JRO3C {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Chat & Loading chat */
+.chat-3bRxxu,
+.wrapper-3vR61M,
+.wrapper-1F5TKx {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Text areas */
+.scrollableContainer-2NUZem,
+.channelTextArea-rNsIhG,
+.input-2_SIlA {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Markdown elements */
+.blockquoteDivider-2hH8H6 {
+  background-color: var(--dotfiles-colorscheme-base-03);
+}
+.after_inlineCode-1KfVgj,
+.before_inlineCode-1G9rTK,
+.inlineCode-2ngu6Y {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.markup-2BOw-j code {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
