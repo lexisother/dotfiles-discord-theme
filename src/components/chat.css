@@ -137,3 +137,11 @@
   background-color: var(--dotfiles-colorscheme-base-01);
 }
 /* }}} */
+
+/* Emote autocomplete */
+.theme-dark .autocomplete-1vrmpx {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.theme-dark .selected-1Tbx07 {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
