@@ -73,7 +73,7 @@
 }
 
 /* Date divider */
-.divider-JfaTT5 {
+.divider-JfaTT5:not(#---new-messages-bar) {
   border-top: thin solid var(--dotfiles-colorscheme-base-02);
 }
 
