@@ -234,6 +234,11 @@
   border-top-color: var(--dotfiles-colorscheme-base-02);
 }
 
+/* Modal */
+.theme-dark .footer-2gL1pp {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
 /* Blue buttons */
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
   background-color: var(--dotfiles-colorscheme-base-0D);
@@ -257,6 +262,8 @@
 /* }}} */
 
 /* {{{ /* ----- Settings ----- */
+
+/* {{{ /* ----- User ----- */
 
 /* Sidebar */
 .sidebarRegionScroller-3MXcoP {
@@ -288,5 +295,97 @@
 .item-26Dhrx[aria-checked='true'] {
   background-color: var(--dotfiles-colorscheme-base-02);
 }
+
+/* Dropdowns */
+.css-3vaxre-menu {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Connections */
+.accountList-33MS45 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+.connectionHeader-2MDqhu {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.connectionOptionsWrapper-3KIj1Z {
+  background-color: var(--dotfiles-colorscheme-base-02);
+  border-radius: 0 0 8px 8px;
+}
+
+/* Authorized apps */
+.cardPrimaryOutline-29Ujqw {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Nitro */
+.detailsBlock-FoDTGA,
+.theme-dark .feature-2w65J5,
+.premiumSubscriptionAccountCredit-25i0tQ {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Server Boost */
+.card-3AyPWq {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+.card-3AyPWq:hover {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+.theme-dark .gemIndicatorContainer-2jdECl {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+
+/* Appearance */
+.preview-2nSL_2 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Accessibility */
+.preview-2Vkbi6 {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.previewMessage-1ZN7YG {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Voice & Video */
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.cardPrimary-1Hv-to,
+.cardPrimaryEditable-3KtE4g {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* }}} */
+
+/* {{{ /* ----- Guild ----- */
+
+/* Stickers & Server Boost */
+.theme-dark .tierHeaderUnlocked-3lTDnP,
+.wrapper-18yWki,
+.theme-dark .tierHeaderLocked-3S508x {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+.theme-dark .tierBody-3aUxuc {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
+/* Server Template */
+.descriptionBox-1EKQKL {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* Community */
+.featureCard-1RR4Tl {
+  background-color: var(--dotfiles-colorscheme-base-01);
+}
+
+/* }}} */
 
 /* }}} */
