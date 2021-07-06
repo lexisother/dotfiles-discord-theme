@@ -72,6 +72,14 @@
   background-color: var(--dotfiles-colorscheme-base-01);
 }
 
+/* Message menu */
+.wrapper-2aW0bm {
+  background-color: var(--dotfiles-colorscheme-bg);
+}
+.button-1ZiXG9:hover {
+  background-color: var(--dotfiles-colorscheme-base-02);
+}
+
 /* Date divider */
 .divider-JfaTT5:not(#---new-messages-bar) {
   border-top: thin solid var(--dotfiles-colorscheme-base-02);
